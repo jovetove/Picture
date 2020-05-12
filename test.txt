@@ -147,7 +147,6 @@ package:com.android.mtp
 package:com.android.nfc
 package:com.android.ons
 package:com.android.stk
-package:com.cat.simulation
 package:com.android.backupconfirm
 package:com.xiaomi.simactivate.service
 package:com.mfashiongallery.emag
